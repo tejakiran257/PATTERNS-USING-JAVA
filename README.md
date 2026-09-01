@@ -14,6 +14,7 @@ Pattern2 for
                 *       * 
                 * * * * *    
 Pattern3 for
+
             *       *          
               *   *   
                 *     

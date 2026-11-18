@@ -1,4 +1,4 @@
-# JAVA-USING-PATTRENS
+# JAVA-USING-PATTRENS Questions
 
 Pattern1 for  
                     *   
